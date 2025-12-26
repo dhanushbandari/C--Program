@@ -103,7 +103,9 @@ Use the ternary operator only for short, simple expressions.
 <br>
 CHAPTER 2
 <br>
+<br>
 LOOPS in C program..!
+<br>
 <br>
 What are loops in C? 🔁
 <br>
