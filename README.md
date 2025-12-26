@@ -118,7 +118,9 @@ for loop 🔧 : Used when the number of iterations is known or simple to control
 EXAMPLE CODE:-
 <br>
 for (int i = 0; i < 5; i++) {
+    <br>
     printf("%d\n", i);
+    <br>
 }
 <br>
 
