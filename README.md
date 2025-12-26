@@ -101,10 +101,7 @@ Keep conditions simple and readable; combine with && / || when needed.
 Use the ternary operator only for short, simple expressions.
 <br>
 <br>
-CHAPTER 2
-<br>
-<br>
-LOOPS in C program..!
+CHAPTER 2 : LOOPS in C program..!
 <br>
 <br>
 What are loops in C? 🔁
@@ -113,10 +110,10 @@ Loops let a program repeat a block of code multiple times until a condition chan
 <br>
 Loops used to process collections, repeat tasks, or run until a condition is met.
 <br>
+<br>
 Main loop types
 <br>
-for loop 🔧
-Used when the number of iterations is known or simple to control.
+for loop 🔧 : Used when the number of iterations is known or simple to control.
 <br>
 EXAMPLE CODE:-
 <br>
