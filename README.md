@@ -115,7 +115,7 @@ Main loop types
 <br>
 for loop 🔧 : Used when the number of iterations is known or simple to control.
 <br>
-EXAMPLE CODE:-
+SYNTAX OF FOR LOOP :-
 <br>
 for (int i = 0; i < 5; i++) {
     <br>
