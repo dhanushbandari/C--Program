@@ -1,13 +1,13 @@
 # C-program
 Learning to code differently ..
 <br>
-What is C.?
+<b> What is C.?</b>
 <br>
 C is a genral purpose.procedural programming language devloped by "DENNIS RITCHIE"
 it's mainly used for system programming embedded system,and application requiring high performance..
 <br>
 <hr>
-How to run Programmed file using compiler
+<b> How to run Programmed file using compiler </b>
 <br>
 gcc "filename"
 <br>
@@ -22,7 +22,7 @@ It compiles source code into machine code, offers optimization and debugging opt
 Example: gcc hello.c -o hello.
 <br>
 <hr>
-WHAT IS LANGUAGE STANDARD FLAGS ?
+<b> WHAT IS LANGUAGE STANDARD FLAGS ? </b>
 <br>
 <br>
 Language standard flags tell the compiler which version of the language rules and standard library to follow (syntax, semantics, and which standard library features are available) and whether GNU/vendor extensions are allowed.
@@ -42,7 +42,7 @@ Quick example: gcc -std=c11 -Wall -Wextra -pedantic-errors hello.c -o hello
 Use -pedantic or -pedantic-errors to enforce strict standard compliance (reject or warn about extensions)
 <br>
 <hr>
-What is -pedantic-errors? ✅
+<b> What is -pedantic-errors? ✅ </b>
 <br> 
 pedantic : tells GCC to warn about any code that violates the ISO C/C++ standard (e.g.use of non‑standard or implementation‑defined features).
 <br>
