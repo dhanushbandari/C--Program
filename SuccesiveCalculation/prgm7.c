@@ -1,3 +1,5 @@
+// LCM AND HCF OF TWO NUMBERS
+
 #include <stdio.h> // Include the standard input-output library
 int main(){
     int hcf=0,a,b,lcm; // Variable to store the highest common factor and the two numbers

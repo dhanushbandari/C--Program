@@ -1,3 +1,5 @@
+// Check if a number is prime or not
+
 #include <stdio.h> // Include the standard input-output library
 int main() { // Main Function 
     int n , count = 0; // Variable to store the input number and count of divisors
